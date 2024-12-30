@@ -1,0 +1,2 @@
+ASimulatorSystem.GenericResponse
+ASimulatorSystem.FastCash
